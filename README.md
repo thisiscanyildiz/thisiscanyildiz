@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Can Yıldız! 👋
 
-<!--
-**thisiscanyildiz/thisiscanyildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🚀 I'm a passionate **Flutter Developer** in training.
+- 📱 Building mobile applications and learning every day.
+- ☕ Powered by coffee and a discipline of night coding.
+- 📍 Based in Istanbul, Turkey.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Language:** Dart
+- **Framework:** Flutter
+- **Tools:** VS Code, Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 My Stats
+![Can't stats](https://github-readme-stats.vercel.app/api?username=thisiscanyildiz&show_icons=true&theme=tokyonight)
+
+---
+*"The best way to predict the future is to create it."*
